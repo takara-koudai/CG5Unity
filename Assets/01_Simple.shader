@@ -10,6 +10,7 @@ Shader "Unlit/01_Simple"
 	{
 		Pass
 		{
+
 			CGPROGRAM
 			#pragma vertex vert
 			#pragma fragment frag
